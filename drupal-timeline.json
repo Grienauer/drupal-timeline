@@ -79,6 +79,14 @@
     "description": "Drupal core adopts semantic versioning and a sustainable, predictable minor release schedule.",
     "comment": ""
   },
+    {
+    "priority": 4,
+    "date": "2012-07-12T00:00:00+00:00",
+    "title": "Drupical - find Drupal Events with ease! launches",
+    "href": "https://www.drupical.com",
+    "description": "Drupical is a beautified overview of Drupal community events, which are happening all over the workd, on an interactive map",
+    "comment": "Background story and news can be found here: https://www.acolono.com/en/drupical"
+  },
   {
     "priority": 3,
     "date": "2012-06-01T00:00:00+00:00",
